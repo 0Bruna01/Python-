@@ -1,5 +1,5 @@
 
-# Dio | resumos git e git hub 
+# Dio | Resumos git e git hub 
 
 Repositório para armazenar as versões de sistemas de bancos . 
 
